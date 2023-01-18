@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net6.0\WiredBrainCoffee.SpecialCases.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net6.0\WiredBrainCoffee.SpecialCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net6.0\WiredBrainCoffee.SpecialCases.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net6.0\WiredBrainCoffee.SpecialCases.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net6.0\WiredBrainCoffee.SpecialCases.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net6.0\WiredBrainCoffee.SpecialCases.exe
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net6.0\WiredBrainCoffee.SpecialCases.deps.json
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net6.0\WiredBrainCoffee.SpecialCases.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net6.0\WiredBrainCoffee.SpecialCases.dll
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\bin\Debug\net6.0\WiredBrainCoffee.SpecialCases.pdb
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net6.0\WiredBrainCoffee.SpecialCases.dll
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net6.0\refint\WiredBrainCoffee.SpecialCases.dll
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net6.0\WiredBrainCoffee.SpecialCases.pdb
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net6.0\WiredBrainCoffee.SpecialCases.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\WiredBrainCoffee.SpecialCases\WiredBrainCoffee.SpecialCases\obj\Debug\net6.0\ref\WiredBrainCoffee.SpecialCases.dll
